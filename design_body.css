@@ -57,54 +57,6 @@
     background-color: rgb(61, 61, 61);
     color: rgb(255, 255, 255);
 }
-
-/* body {
-    background-image: url(images/ads/p_studios_avatar_fireandash_windtrader_poster_a90c31b6.jpeg);
-} */
-/* .layout-3col {
-    display: flex;
-    width: 100%;
-} */
-.left-side {
-    width: 15%;
-    background: #000000;
-    min-height: 100vh;
-}
-.main-content {
-    width: 70%;
-    padding: 20px;
-}
-.right-side {
-    width: 15%;
-    background: #000000;
-    min-height: 100vh;
-}
-.side-ad {
-    width: 100%;
-    height: auto;
-    border-radius: 8px;
-}
-/* .body{
-
-} */
-/* .container.wrapper {
-    max-width: 1600px !important;
-} */
-/* .layout-3col {
-    display: grid;
-    grid-template-columns: 15% 70% 15%;
-    gap: 20px;
-} */
-
-/* .left-col,
-.right-col {
-    opacity: 0;
-    pointer-events: none;
-}
-
-.center-col {
-    width: 100%;
-} */
 #new-list ul {
 
     display: flex;
@@ -129,10 +81,10 @@
     margin-left: 15%; 
     margin-right: 15%; 
 }
-body {
+/* body {
     padding-left: 15%;
     padding-right: 15%;
-}
+} */
 .ad {
     position: fixed;
     top: 50%;
@@ -162,3 +114,4 @@ body {
     cursor: pointer;
 
 }
+
