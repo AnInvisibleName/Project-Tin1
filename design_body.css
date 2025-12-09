@@ -114,6 +114,22 @@ body {
     cursor: pointer;
 
 }
+.watch-full {
+    text-align: center;
+    margin-top: 10px;
+    font-size: 18px;
+    color: #fff;
+}
+
+.watch-full a {
+    color: #ffcc00;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.watch-full a:hover {
+    text-decoration: underline;
+}
 
 
 
